@@ -33,8 +33,6 @@ POST /users  (body: newname, newpw)
 PUT /users/:username (body: newname, newpw, newfavlocs *either of them / all of them*)  
 DELETE /users/:username  
 
-Please follow the database schema and the code implemented.
-Return value will be added later on.
 
 ***Remark: Please do not use form-data to submit data for POST API***  
 
