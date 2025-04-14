@@ -1,10 +1,8 @@
-# csci2720project
-Web Application to view weather information  
-http://34.204.136.172/
+# Global Weather(Group project)
+An Web Application to view weather information  
+A MERN Stack application
+![Map](https://github.com/user-attachments/assets/c6653911-1e17-47ed-b0b1-7eeecc907233)
 
-## :stop_sign: Disclaimer  
-We have read this article carefully.  
-http://www.cuhk.edu.hk/policy/academichonesty/  
 
 ## :wave: To start the web  
 under root:  
